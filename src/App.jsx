@@ -11,7 +11,6 @@ import ServicesSection from './components/ServicesSection'
 import TestimonialsSection from './components/TestimonialsSection'
 import NewsletterSection from './components/NewsletterSection'
 import Footer from './components/Footer'
-
 function App() {
   return (
     <main className="relative min-h-screen overflow-x-hidden">
