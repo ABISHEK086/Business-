@@ -6,7 +6,7 @@ const FeaturesSection = () => {
   const features = [    
     {     
       icon: "🔍",     
-      title: "Find out what you need",
+      title: "Find out what you need", 
       description: "We present you a proposal and discuss nitty-gritty like"
     },
     {
