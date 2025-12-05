@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from "framer-motion";
 import { fadeIn, textVariant } from "../utils/motion";
  
-const FeaturesSection = () => {
+const FeaturesSection = () => { 
   const features = [  
     { 
       icon: "🔍",    
