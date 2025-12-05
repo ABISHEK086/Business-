@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { fadeIn, textVariant } from "../utils/motion";
  
 const FeaturesSection = () => {     
-  const features = [    
+  const features = [     
     {     
       icon: "🔍",      
       title: "Find out what you need", 
