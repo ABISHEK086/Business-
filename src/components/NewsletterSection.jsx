@@ -5,7 +5,7 @@ import { fadeIn, textVariant } from "../utils/motion";
      
 const NewsletterSection = () => {
   return ( 
-    <section id="newsletter" className="section-container px-4 md:px-0">
+    <section id="newsletter" className="section-container px-4 md:px-0"> 
       <motion.div 
         variants={fadeIn('up', 0.2)}
         initial="hidden"
