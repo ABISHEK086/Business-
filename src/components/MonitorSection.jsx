@@ -8,7 +8,7 @@ const MonitorSection = () => {
   return (
     <motion.section 
       variants={fadeIn('up', 0.2)} 
-      initial="hidden"
+      initial="hidden" 
       whileInView="show"
       viewport={{ once: true }}
       className="max-w-7xl mx-auto px-4 py-16 md:py-24"
