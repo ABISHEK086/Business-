@@ -1,7 +1,7 @@
 import React from 'react'
 import { BsStack } from 'react-icons/bs'
 import { HiLightBulb } from 'react-icons/hi'
-import { FiSettings } from 'react-icons/fi'   
+import { FiSettings } from 'react-icons/fi'    
 import { BiTime } from 'react-icons/bi' 
 import { motion } from "framer-motion";    
 import { fadeIn, textVariant } from "../utils/motion";  
