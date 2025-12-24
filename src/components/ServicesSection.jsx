@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 import { fadeIn, textVariant } from "../utils/motion";  
    
 const ServicesSection = () => {    
-  const services = [
+  const services = [ 
     {
       icon: <BsStack className="w-8 h-8 text-indigo-600" />, 
       title: "Web Design",
