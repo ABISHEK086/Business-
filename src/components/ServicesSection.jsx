@@ -6,7 +6,7 @@ import { BiTime } from 'react-icons/bi'
 import { motion } from "framer-motion"; 
 import { fadeIn, textVariant } from "../utils/motion";
  
-const ServicesSection = () => {  
+const ServicesSection = () => {   
   const services = [
     {
       icon: <BsStack className="w-8 h-8 text-indigo-600" />, 
