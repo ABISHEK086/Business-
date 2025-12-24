@@ -11,7 +11,7 @@ const ServicesSection = () => {
     { 
       icon: <BsStack className="w-8 h-8 text-indigo-600" />, 
       title: "Web Design",
-      description: "One for all and all for one, Muskehounds are always ready.",
+      description: "One for all and all for one, Muskehounds are always ready.", 
       link: "#learn-more"
     },
     {
