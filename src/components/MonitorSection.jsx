@@ -6,7 +6,7 @@ import monitorCardBg from '../assets/monitor-card.webp';
 
 const MonitorSection = () => { 
   return ( 
-    <motion.section    
+    <motion.section     
       variants={fadeIn('up', 0.2)}  
       initial="hidden"   
       whileInView="show"
