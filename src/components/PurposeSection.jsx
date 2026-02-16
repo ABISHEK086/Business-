@@ -5,7 +5,7 @@ const PurposeSection = () => {
   const features = [ 
     { 
       icon: "🟣",  
-      title: "Built for impact", 
+      title: "Built for impact",  
       description: "We identify and nurture a truly diverse team of designers, developers and marketers"
     },
     { 
