@@ -9,7 +9,7 @@ const PurposeSection = () => {
       description: "We identify and nurture a truly diverse team of designers, developers and marketers"
     },
     { 
-      icon: "🔴",
+      icon: "🔴", 
       title: "In sync with you",
       description: "We work the way you do by adapting to your workflows and rhythm we aim to blend in for a seamless."
     }
