@@ -4,7 +4,7 @@ import { fadeIn, textVariant } from "../utils/motion";
 
 const ScheduleSection = () => {
   return (  
-    <motion.section 
+    <motion.section  
       variants={fadeIn('up', 0.2)}
       initial="hidden"
       whileInView="show"
