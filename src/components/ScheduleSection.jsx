@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { fadeIn, textVariant } from "../utils/motion";
 
 const ScheduleSection = () => {
-  return ( 
+  return (  
     <motion.section 
       variants={fadeIn('up', 0.2)}
       initial="hidden"
